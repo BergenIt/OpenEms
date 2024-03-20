@@ -4,7 +4,7 @@
 
 [![Download EMS](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/ems/files/latest/download)
 
-Решение доступно для загрузки на [sourceforge](https://sourceforge.net/projects/ems/) и бесплатно в рамках 100 единиц оборудования и 1 географически распределенного кластера. Подробные условия использования указаны лицензионном соглашении на sourceforge.
+Решение и документация доступны для загрузки на [sourceforge](https://sourceforge.net/projects/ems/) и бесплатны в рамках 100 единиц оборудования и 1 кластера. Подробные условия использования указаны лицензионном соглашении на sourceforge.
 
 <img width="1916" alt="image" src="https://github.com/BergenIt/OpenEms/assets/109030262/ff312761-2157-43b6-94bf-fa82e3aa7f00">
 
