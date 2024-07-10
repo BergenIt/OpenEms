@@ -1,0 +1,3 @@
+[submodule "ems-user-documents"]
+	path = ems-user-documents
+	url = https://github.com/BergenIt/ems-user-documents.git
